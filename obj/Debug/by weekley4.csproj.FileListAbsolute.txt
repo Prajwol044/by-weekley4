@@ -1,0 +1,7 @@
+C:\Users\prajw\OneDrive\Desktop\web koi\week 4\by weekley4\bin\Debug\by weekley4.exe.config
+C:\Users\prajw\OneDrive\Desktop\web koi\week 4\by weekley4\bin\Debug\by weekley4.exe
+C:\Users\prajw\OneDrive\Desktop\web koi\week 4\by weekley4\bin\Debug\by weekley4.pdb
+C:\Users\prajw\OneDrive\Desktop\web koi\week 4\by weekley4\obj\Debug\by weekley4.csproj.AssemblyReference.cache
+C:\Users\prajw\OneDrive\Desktop\web koi\week 4\by weekley4\obj\Debug\by weekley4.csproj.CoreCompileInputs.cache
+C:\Users\prajw\OneDrive\Desktop\web koi\week 4\by weekley4\obj\Debug\by weekley4.exe
+C:\Users\prajw\OneDrive\Desktop\web koi\week 4\by weekley4\obj\Debug\by weekley4.pdb
